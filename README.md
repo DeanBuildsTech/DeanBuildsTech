@@ -11,7 +11,7 @@ I'm a Software Quality Test Engineer at an Insurance Company. My role involves e
 - **Version Control**: Git & GitHub
 - **Automation (Learning Phase)**: Selenium & Python
 - **Current Learning Focus**: Tosca Tricentis
-- **Development Knowledge**: HTML, CSS, JavaScript (basic understanding)
+- **Development Knowledge**: HTML, CSS, JavaScript 
 
 ## Learning & Goals 🎯
 
