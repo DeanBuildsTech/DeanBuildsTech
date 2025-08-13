@@ -3,6 +3,7 @@
 ## About Me
 
 I'm a Software Quality Test Engineer specializing in enterprise insurance systems. My role spans System Integration Testing (SIT), User Acceptance Testing (UAT), and End-to-End (E2E) testing.  
+
 I have practical experience with **API testing** using SOAP UI for features not yet available in the front-end, and I validate the full data lifecycle using SQL queries, Oracle SQL Developer, and XML/TIFF verification.
 
 ## Skills & Tools 🛠️
@@ -18,7 +19,7 @@ I have practical experience with **API testing** using SOAP UI for features not 
 
 I'm transitioning from manual QA into automation and DevOps. My **main portfolio** acts as a public learning lab, showcasing my projects, experiments, and progress in automation, CI/CD, and infrastructure-as-code.
 
-➡️ **[View My Automation & DevOps Portfolio](https://github.com/yourusername/QA-to-DevOps-Portfolio)**
+➡️ **[View My Automation & DevOps Portfolio](https://github.com/DeanBuildsTech/QA-to-DevOps-Portfolio)** 
 
 ## Goals 🎯
 
