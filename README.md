@@ -17,16 +17,13 @@ I have practical experience with **API testing** using SOAP UI for features not 
 
 ## My Learning Journey 🚀
 
-I'm transitioning from manual QA into automation and DevOps. My **main portfolio** acts as a public learning lab, showcasing my projects, experiments, and progress in automation, CI/CD, and infrastructure-as-code.
-
-➡️ **[View My Automation & DevOps Portfolio](https://github.com/DeanBuildsTech/QA-to-DevOps-Portfolio)** 
+I'm transitioning from manual QA into automation. My portfolio showcases projects and experiments in test automation, API testing, and frameworks.
 
 ## Goals 🎯
-
-- Build hands-on projects in automation, CI/CD, and DevOps  
-- Strengthen API testing expertise  
-- Earn AWS Cloud Practitioner and ISC2 CC certifications  
-- Transition into an automation or DevOps-focused role  
+- Build hands-on automation projects (Java, Selenium, TestNG, API automation)
+- Strengthen backend testing expertise with SQL and API validations
+- Earn ISTQB Advanced and relevant automation certifications
+- Transition into an Automation QA / SDET role
 
 ## Connect With Me 🤝
 
