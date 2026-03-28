@@ -1,35 +1,52 @@
 # Hi, I'm Dean! 👋
 
 ## About Me
+I'm a Cybersecurity Specialist transitioning into DevSecOps — 
+combining my background in security operations, software QA, 
+and networking fundamentals into a unified focus on securing 
+infrastructure, pipelines, and cloud environments.
 
-I'm a Software Quality Test Engineer specializing in enterprise insurance systems. My role spans System Integration Testing (SIT), User Acceptance Testing (UAT), and End-to-End (E2E) testing.  
+Currently leading ISO 27001 implementation groundwork at an 
+IT managed services provider in the Philippines, while building 
+toward cloud security and infrastructure automation.
 
-I have practical experience with **API testing** using SOAP UI for features not yet available in the front-end, and I validate the full data lifecycle using SQL queries, Oracle SQL Developer, and XML/TIFF verification.
+## Background 🛠️
+- **Security:** SOC operations, ISO 27001 implementation 
+  groundwork
+- **Networking:** CCNA certified
+- **QA:** 2 years manual QA on enterprise insurance systems 
+  (SIT, UAT, E2E, API testing)
+- **Tools:** StellarCyber XDR, Oracle SQL Developer, 
+  SOAP UI, Git & GitHub
 
-## Skills & Tools 🛠️
+## Certifications 📜
+- ✅ CCNA (Cisco Certified Network Associate)
+- 🔄 CompTIA Security+ (in progress — April 2026)
+- 📋 AWS Solutions Architect Associate (planned)
 
-- **Testing Methodologies:** SIT, UAT, E2E, Sanity, Regression, Smoke, Functional Testing  
-- **API Testing:** SOAP UI  
-- **Backend & Data Validation:** SQL Queries, Oracle SQL Developer, XML/TIFF Validation  
-- **Test Management:** qTest (Defect & Bug Tracking)  
-- **Version Control:** Git & GitHub  
-- **Automation (Upskilling):** Java, Selenium, Tosca  
+## Currently Learning 🚀
+- Security+ exam preparation
+- Linux fundamentals
+- AWS cloud infrastructure
+- DevSecOps concepts and tooling
 
-## My Learning Journey 🚀
-
-I'm transitioning from manual QA into automation. My portfolio showcases projects and experiments in test automation, API testing, and frameworks.
+## Portfolio Projects 🔐
+*Building in progress — projects will focus on:*
+- Securing containerized applications (Docker)
+- CI/CD pipeline security integration
+- Infrastructure as Code with Terraform
+- Cloud security on AWS free tier
+- Vulnerability scanning automation
 
 ## Goals 🎯
-- Build hands-on automation projects (Java, Selenium, TestNG, API automation)
-- Strengthen backend testing expertise with SQL and API validations
-- Earn ISTQB Advanced and relevant automation certifications
-- Transition into an Automation QA / SDET role
+- Earn Security+ and AWS Solutions Architect Associate
+- Build hands-on DevSecOps portfolio on AWS free tier
+- Contribute to open source security tooling
+- Grow into a Senior DevSecOps Engineer
 
 ## Connect With Me 🤝
-
-Always open to learning and sharing!  
-Let’s connect to discuss QA, automation, DevOps, or tech career growth.
+Always open to discussing DevSecOps, cloud security, 
+infrastructure automation, or the journey from QA to security.
 
 ---
-
-📌 *Committed to continuous improvement and practical learning.*
+📌 *From manual QA to DevSecOps — one pipeline at a time.*
