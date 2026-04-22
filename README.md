@@ -21,11 +21,10 @@ toward cloud security and infrastructure automation.
 
 ## Certifications 📜
 - ✅ CCNA (Cisco Certified Network Associate)
-- 🔄 CompTIA Security+ (in progress — April 2026)
+- ✅ CompTIA Security+
 - 📋 AWS Solutions Architect Associate (planned)
 
 ## Currently Learning 🚀
-- Security+ exam preparation
 - Linux fundamentals
 - AWS cloud infrastructure
 - DevSecOps concepts and tooling
